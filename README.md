@@ -49,4 +49,8 @@ The project uses the Pima Indians Diabetes dataset.
 ## Conclusion
 This project demonstrates the use of Logistic Regression for diabetes prediction and provides practical experience in data preprocessing, model development, and evaluation.
 
-*This project is for educational purposes only and is not intended to replace professional medical diagnosis.*
+
+
+
+
+
